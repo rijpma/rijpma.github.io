@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Auke Rijpma</title>
+    <link>https://www.aukerijpma.nl/</link>
+    <description>Recent content in About on Auke Rijpma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:24 +0200</lastBuildDate><atom:link href="https://www.aukerijpma.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data</title>
+      <link>https://www.aukerijpma.nl/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aukerijpma.nl/data/</guid>
+      <description>Data Church construction data  A dataset on church construction in Western Europe, 700–1500, based on OpenStreetMap. 🗺 ⛪ Licence (following the OSM source licence). Full repository. Frequently requested slices:  Western Europe series Western Europe by type of church Western Europe by city geography By country    Todd/Murdock data  A dataset on historical family characteristics around the globe :world:. Data More info and citation: Rijpma, Auke, and Sarah G.</description>
+    </item>
+    
+    <item>
+      <title>Links and projects</title>
+      <link>https://www.aukerijpma.nl/link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aukerijpma.nl/link/</guid>
+      <description> Clariah project Clariah Structured Data Hub/DataLegend Clio-Infra IISH Historical Prices and Wages R ❤️ r-data.table Github  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://www.aukerijpma.nl/pub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aukerijpma.nl/pub/</guid>
+      <description>Publications &amp;lsquo;Retracing Hotbeds of the 1918–19 Influenza Pandemic. Spatial Differences in Seasonal Excess Mortality in the Netherlands&amp;rsquo;, with with Rick Mourits, Ruben Schalk, Albert Meroño-Peñuela, Joe Raad, Bram van den Hout, and Richard L. Zijdeman. Historical Life Course Studies 10 (March 2021). pdf
+Rijpma, Auke. “A Composite View on Inequality and Well-Being.” In How Was Life? Volume II, edited by Jan Luiten Van Zanden, Marco Mira d’Ercole, Mikołaj Malinowski, and Auke Rijpma.</description>
+    </item>
+    
+    <item>
+      <title>Working papers</title>
+      <link>https://www.aukerijpma.nl/wp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aukerijpma.nl/wp/</guid>
+      <description>Working papers Pim de Zwart, Daniel Gallardo, and Auke Rijpma (2020). “The Demographic Effects of a Colonial Institution: Forced Cultivation and Mortality in Java, 1830–1880”.
+Ruben Schalk and Auke Rijpma (2019). “Migration for necessity or proficiency: The Netherlands, 1750-1920”.
+Auke Rijpma, Jan Luiten van Zanden, and Marco Mira d’Ercole (2018). “A Long-Term Perspective on the Development Experience of Emerging and Industrialised Economies”. OECD Statistics Working Papers 2018/10.
+Auke Rijpma (2016). “What Can’t Money Buy?</description>
+    </item>
+    
+  </channel>
+</rss>
