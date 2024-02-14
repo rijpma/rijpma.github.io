@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aukerijpma.nl/data/</guid>
-      <description>Data Openarch deaths  Cleaned, deduplicated and (partially) standardized version of Dutch death certificates (c. 1811-1960), retrieved from openarch.nl. The csv files per archive, used to create this dataset, were retrieved in January 2020. Scripts used to create this dataset are available at github/wp4-civreg (version 1.0). Repository  Church construction data  A dataset on church construction in Western Europe, 700–1500, based on OpenStreetMap. 🗺 ⛪ Licence (following the OSM source licence).</description>
+      <description>Data Openarch deaths Cleaned, deduplicated and (partially) standardized version of Dutch death certificates (c. 1811-1960), retrieved from openarch.nl. The csv files per archive, used to create this dataset, were retrieved in January 2020. Scripts used to create this dataset are available at github/wp4-civreg (version 1.0). Repository Church construction data A dataset on church construction in Western Europe, 700–1500, based on OpenStreetMap. 🗺 ⛪ Licence (following the OSM source licence). Full repository.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aukerijpma.nl/link/</guid>
-      <description> Clariah project Clariah Structured Data Hub/DataLegend Clio-Infra IISH Historical Prices and Wages Cape of Good Hope Panel R ❤️ r-data.table Github openarch  </description>
+      <description> Clariah project Clariah Structured Data Hub/DataLegend Clio-Infra IISH Historical Prices and Wages Cape of Good Hope Panel R ❤️ r-data.table Github openarch </description>
     </item>
     
     <item>
@@ -31,9 +31,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aukerijpma.nl/pub/</guid>
-      <description>Publications Rijpma, Auke, Ingrid K. van Dijk, Ruben Schalk, Richard L. Zijdeman, and Rick J. Mourits. 2022. “Unequal Excess Mortality during the Spanish Flu Pandemic in the Netherlands.” Economics &amp;amp; Human Biology, September, 101179. https://doi.org/10.1016/j.ehb.2022.101179.
-Van Bavel, Bas, Sjoerd Hardeman, Robin Philips, Auke Rijpma, Erik Stam, and Jan Luiten Van Zanden. 2022. “Capaciteitenbenadering Biedt Goede Basis Voor Meten van Welvaart.” Economisch Statistische Berichten. https://esb.nu/esb/20069497/capaciteitenbenadering-biedt-goede-basis-voor-meten-van-welvaart.
-de Zwart, Pim, Daniel Gallardo-Albarrán, and Auke Rijpma.</description>
+      <description>Publications Rijpma, Auke, Robin Philips, and Bas van Bavel (2023), “Multidimensional composite indicators of well-being: applications in economic history”. Accepted at Journal of economic surveys.
+Prats López, M., Rijpma, A., Moor, T. D., &amp;amp; Reijerink, J. (2023). Behind the Crowdsourcing Platform: Assessing Volunteer Recruitment and Engagement Instruments. Nonprofit and Voluntary Sector Quarterly, 08997640231212839. https://doi.org/10.1177/08997640231212839
+Rijpma, Auke, Ingrid K. van Dijk, Ruben Schalk, Richard L. Zijdeman, and Rick J. Mourits. 2022. “Unequal Excess Mortality during the Spanish Flu Pandemic in the Netherlands.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ de Zwart, Pim, Daniel Gallardo-Albarrán, and Auke Rijpma.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aukerijpma.nl/wp/</guid>
-      <description>Working papers Ruben Schalk and Auke Rijpma (2019). “Migration for necessity or proficiency: The Netherlands, 1750-1920”.
+      <description>Working papers Ruben Schalk, Auke Rijpma, and Eva van der Heijden (2019). “Migration for necessity or proficiency: The Netherlands, 1750-1920”.
 Auke Rijpma, Jan Luiten van Zanden, and Marco Mira d’Ercole (2018). “A Long-Term Perspective on the Development Experience of Emerging and Industrialised Economies”. OECD Statistics Working Papers 2018/10.
 Auke Rijpma (2016). “What Can’t Money Buy? Wellbeing and GDP since 1820”. Working Paper 0078. Utrecht University, Centre for Global Economic History.</description>
     </item>
