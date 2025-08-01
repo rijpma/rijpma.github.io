@@ -2,6 +2,7 @@
 Title: Links and projects
 ---
 
+* [HIPNL](https://www.hipnl.nl)
 * [Clariah project](https://www.clariah.nl)
 * [Clariah Structured Data Hub/DataLegend](https://druid.datalegend.net)
 * [Clio-Infra](https://clio-infra.eu)
