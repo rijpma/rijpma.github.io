@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Auke Rijpma</title><link>https://www.aukerijpma.nl/</link><description>Recent content in About on Auke Rijpma</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aukerijpma.nl/index.xml" rel="self" type="application/rss+xml"/><item><title>Data</title><link>https://www.aukerijpma.nl/data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.aukerijpma.nl/data/</guid><description>&lt;h2 id="data">Data&lt;/h2>
+&lt;h3 id="openarch-deaths">Openarch deaths&lt;/h3>
+&lt;ul>
+&lt;li>Cleaned, deduplicated and (partially) standardized version of Dutch death certificates (c. 1811-1960), retrieved from &lt;a href="https://www.openarch.nl">openarch.nl&lt;/a>. The csv files per archive, used to create this dataset, were retrieved in January 2020. Scripts used to create this dataset are available at &lt;a href="https://github.com/CLARIAH/wp4-civreg">github/wp4-civreg&lt;/a> (version 1.0).&lt;/li>
+&lt;li>&lt;a href="https://datasets.iisg.amsterdam/dataset.xhtml?persistentId=hdl:10622/PCAEGG">Repository&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="church-construction-data">Church construction data&lt;/h3>
+&lt;ul>
+&lt;li>A dataset on church construction in Western Europe, 700–1500, based on &lt;a href="https://www.openstreetmap.org">OpenStreetMap&lt;/a>. :map: &amp;#x26ea;&lt;/li>
+&lt;li>&lt;a href="https://raw.githubusercontent.com/rijpma/cathedrals/master/dat/odbl-10.txt">Licence&lt;/a> (following the OSM source licence).&lt;/li>
+&lt;li>&lt;a href="https://github.com/rijpma/cathedrals">Full repository&lt;/a>.&lt;/li>
+&lt;li>Frequently requested slices:
+&lt;ul>
+&lt;li>&lt;a href="https://raw.githubusercontent.com/rijpma/cathedrals/master/dat/figure3.csv">Western Europe series&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://raw.githubusercontent.com/rijpma/cathedrals/master/dat/figure8.csv">Western Europe by type of church&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://raw.githubusercontent.com/rijpma/cathedrals/master/dat/figure9.csv">Western Europe by city geography&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://raw.githubusercontent.com/rijpma/cathedrals/master/dat/countrydata.csv">By country&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>More info and citation:
+&lt;ul>
+&lt;li>Buringh, Eltjo, Bruce M.S. Campbell, Auke Rijpma, and Jan Luiten van Zanden. &lt;a href="https://doi.org/10.1016/j.eeh.2019.101316">“Church Building and the Economy during Europe’s ‘Age of the Cathedrals’, 700–1500 CE.”&lt;/a> Explorations in Economic History 76 (April 2020): 101316.&lt;/li>
+&lt;li>Rijpma, Auke, Jan Luiten Van Zanden, Eltjo Buringh, and Bruce MS Campbell. (“Reproduction Files for Church Building and the Economy.”)[https://doi.org/10.3886/E115381V1] ICPSR - Interuniversity Consortium for Political and Social Research, 2019.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="gender-equality-data">Gender equality data&lt;/h3>
+&lt;ul>
+&lt;li>An long-term index of gender equality.&lt;/li>
+&lt;li>V1:
+&lt;ul>
+&lt;li>&lt;a href="https://hdl.handle.net/10622/AWH3IV">data&lt;/a>&lt;/li>
+&lt;li>More info/citation: &lt;a href="https://doi.org/10.1787/9789264214262-16-en">“Gender Equality since 1820.”&lt;/a>; &lt;a href="https://doi.org/10.1080/13545701.2018.1442582">“Introducing the Historical Gender Equality Index.”&lt;/a>; &lt;a href="https://doi.org/10.1093/cesifo/ifu027">“Achieving Gender Equality: Development versus Historical Legacies.”&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>V2:
+&lt;ul>
+&lt;li>An updated version extending the data to the start of the twentieth century (exact starting date varies by country) and to 2010.&lt;/li>
+&lt;li>&lt;a href="">data&lt;/a>&lt;/li>
+&lt;li>More info/citation: &lt;a href="https://doi.org/10.1787/d005dfaf-en">“Gender Equality since 1900.”&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="toddmurdock-data">Todd/Murdock data&lt;/h3>
+&lt;ul>
+&lt;li>A dataset on historical family characteristics around the globe.&lt;/li>
+&lt;li>&lt;a href="https://www.aukerijpma.nl/data/tt.zip">Data&lt;/a>&lt;/li>
+&lt;li>More info and citation: Rijpma, Auke, and Sarah G. Carmichael. &lt;a href="https://doi.org/10.1080/20780389.2015.1114415">“Testing Todd and Matching Murdock: Global Data on Historical Family Characteristics.”&lt;/a> Economic History of Developing Regions 31, no. 1 (January 2, 2016): 10–46.&lt;/li>
+&lt;/ul></description></item><item><title>Links and projects</title><link>https://www.aukerijpma.nl/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.aukerijpma.nl/link/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://www.clariah.nl">Clariah project&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://druid.datalegend.net">Clariah Structured Data Hub/DataLegend&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://clio-infra.eu">Clio-Infra&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.iisg.nl/hpw/link.php">IISH Historical Prices and Wages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.capepanel.org">Cape of Good Hope Panel&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.r-project.org">R &amp;#x2764;&amp;#xfe0f;&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://r-datatable.com/">r-data.table&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rijpma">Github&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.openarch.nl">openarch&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Publications</title><link>https://www.aukerijpma.nl/pub/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.aukerijpma.nl/pub/</guid><description>&lt;h2 id="publications">Publications&lt;/h2>
+&lt;p>Rijpma, Auke, Robin Philips, and Bas van Bavel (2023), “Multidimensional composite indicators of well-being: applications in economic history”. Accepted at &lt;em>Journal of economic surveys&lt;/em>.&lt;/p>
+&lt;p>Prats López, M., Rijpma, A., Moor, T. D., &amp;amp; Reijerink, J. (2023). Behind the Crowdsourcing Platform: Assessing Volunteer Recruitment and Engagement Instruments. Nonprofit and Voluntary Sector Quarterly, 08997640231212839. &lt;a href="https://doi.org/10.1177/08997640231212839">https://doi.org/10.1177/08997640231212839&lt;/a>&lt;/p>
+&lt;p>Rijpma, Auke, Ingrid K. van Dijk, Ruben Schalk, Richard L. Zijdeman, and Rick J. Mourits. 2022. “Unequal Excess Mortality during the Spanish Flu Pandemic in the Netherlands.” Economics &amp;amp; Human Biology, September, 101179. &lt;a href="https://doi.org/10.1016/j.ehb.2022.101179">https://doi.org/10.1016/j.ehb.2022.101179&lt;/a>.&lt;/p></description></item><item><title>Working papers</title><link>https://www.aukerijpma.nl/wp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.aukerijpma.nl/wp/</guid><description>&lt;h3 id="working-papers">Working papers&lt;/h3>
+&lt;p>Ruben Schalk, Auke Rijpma, and Eva van der Heijden (2019). &lt;a href="https://www.aukerijpma.nl/papers/migration.pdf">“Migration for necessity or proficiency: The Netherlands, 1750-1920”&lt;/a>.&lt;/p>
+&lt;p>Auke Rijpma, Jan Luiten van Zanden, and Marco Mira d’Ercole (2018). &lt;a href="https://www.oecd-ilibrary.org/deliver/ad930641-en.pdf?itemId=%2Fcontent%2Fpaper%2Fad930641-en&amp;amp;mimeType=pdf">“A Long-Term Perspective on the Development Experience of Emerging and Industrialised Economies”&lt;/a>. OECD Statistics Working Papers 2018/10.&lt;/p>
+&lt;p>Auke Rijpma (2016). &lt;a href="https://ideas.repec.org/p/ucg/wpaper/0078.html">“What Can’t Money Buy? Wellbeing and GDP since 1820”&lt;/a>. Working Paper 0078. Utrecht University, Centre for Global Economic History.&lt;/p></description></item></channel></rss>
