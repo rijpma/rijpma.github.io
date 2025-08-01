@@ -1,0 +1,48 @@
+baseURL = "https://www.aukerijpma.nl"
+title = "Auke Rijpma"
+theme = "hugo-bearblog"
+languageCode = "en-us"
+canonifyurls = true
+enableEmoji = true
+
+enableRobotsTXT = true
+
+[params]
+  description = "Auke Rijpma's personal website"
+  copyright = "Copyright © 2020 Auke Rijpma"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "Publications"
+    name = "Publications"
+    titel = "Publications"
+    url = "/pub/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Working papers"
+    name = "Working papers"
+    titel = "Working papers"
+    url = "/wp/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "Data"
+    name = "Data"
+    titel = "Data"
+    url = "/data/"
+    
+  [[menu.main]]
+    identifier = "Links"
+    name = "Links"
+    titel = "Links"
+    url = "/link/"
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
