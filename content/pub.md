@@ -4,7 +4,11 @@ title: "Publications"
 
 ## Publications
 
-Rijpma, Auke, Robin Philips, and Bas van Bavel (2023), “Multidimensional composite indicators of well-being: applications in economic history”. Accepted at _Journal of economic surveys_.
+Cilliers, Jeanne, Erik Green, Anne E. McCants, and Auke Rijpma. 2025. ‘Wealth and Marriage at the Cape: Consanguineous Unions as a Strategy’. The History of the Family 30 (2): 258–84. https://doi.org/10.1080/1081602X.2025.2478381.
+
+Fourie, Johan, Erik Green, Auke Rijpma, and Dieter Von Fintel. 2024. ‘Income Mobility before Industrialization: Evidence from South Africa’s Cape Colony’. Social Science History, September 12, 1–30. https://doi.org/10.1017/ssh.2024.24.
+
+Rijpma, Auke, Robin Philips, and Bas van Bavel (2023), “Multidimensional composite indicators of well-being: applications in economic history”. _Journal of economic surveys_. https://doi.org/10.1111/joes.12622
 
 Prats López, M., Rijpma, A., Moor, T. D., & Reijerink, J. (2023). Behind the Crowdsourcing Platform: Assessing Volunteer Recruitment and Engagement Instruments. Nonprofit and Voluntary Sector Quarterly, 08997640231212839. https://doi.org/10.1177/08997640231212839
 
