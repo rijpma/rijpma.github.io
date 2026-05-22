@@ -52,7 +52,7 @@ Carmichael, Sarah, and Auke Rijpma. [“Blood Is Thicker Than Water: Geography a
 
 Carmichael, Sarah, and Auke Rijpma. [“Measuring Agency.”](https://doi.org/10.4324/9781315212418-3) In _Agency, Gender and Economic Development in the World Economy 1850–2000_, edited by Jan Luiten Van Zanden, Auke Rijpma, and Jan Kok, 2017. .
 
-Carmichael, Sarah, Auke Rijpma, and Lotte van der Vleuten. [“Quantity versus Quality : Household Structure, Number of Siblings, and Educational Attainment in the Long Nineteenth Century.”](https://doi.org/10.4324/9781315212418-4) In _Agency, Gender and Economic Development in the World Economy 1850–2000_, edited by Jan-Luiten van Zanden, Auke Rijpma, and Jan Kok, 2017.
+Carmichael, Sarah, Auke Rijpma, and Lotte van der Vleuten. [“Quantity versus Quality: Household Structure, Number of Siblings, and Educational Attainment in the Long Nineteenth Century.”](https://doi.org/10.4324/9781315212418-4) In _Agency, Gender and Economic Development in the World Economy 1850–2000_, edited by Jan-Luiten van Zanden, Auke Rijpma, and Jan Kok, 2017.
 
 Van Zanden, Jan Luiten, Auke Rijpma, and Jan Kok, eds. [_Agency, Gender, and Economic Development in the World Economy 1850-2000. Testing the Sen Hypothesis_](https://doi.org/10.4324/9781315212418). Gender and Well-Being. Basingstoke: Taylor & Francis Ltd, 2017.
 
